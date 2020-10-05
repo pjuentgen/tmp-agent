@@ -2,3 +2,4 @@ com.instana.plugin.host:
   tags:
     - 'management=git-based'
     - 'owner=peter'
+    - 'updated=yes'
